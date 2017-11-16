@@ -12,14 +12,13 @@ The data is stored as a web page using HTML and CSS to allow users to navigate i
 
 ## HOW TO USE
 
-- Download the project zip file to your computer and unzip it to any file directory.
+- Download the project file to any computer directory.
 - Navigate to the project directory and open "fresh_tomatoes.html" to view movie instances and box art imagery.
 - Click on any poster image to watch the trailer of it's movie.
 
 ## ADDING/MODIFYING FILES
 
-- If desired, open entertainment_center.py to modify or create your own movie instance accompanied by it's respective trailer on class Movie. This program accepts
-  any video-sharing URL or image file format which can be utilized at your discretion.
+- If desired, open entertainment_center.py to modify or create your own movie instance accompanied by it's respective trailer on class Movie. This program accepts any video-sharing URL or image file format which can be utilized at your discretion.
 
 ## TOOLS USED
 
