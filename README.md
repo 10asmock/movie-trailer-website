@@ -1,5 +1,5 @@
 # Project 1: Movie Trailer Website
-by Adam Smock
+## by Adam Smock
 
 Server-side code written in Python (2.7.13) to store a list of my favorite movies, including box art imagery and YouTube trailer URL.
 The data is stored as a web page using HTML and CSS to allow users to navigate individual movies and watch their respective trailers.
