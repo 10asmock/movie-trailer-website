@@ -9,12 +9,13 @@ The data is stored as a web page using HTML and CSS to allow users to navigate i
 - entertainment_center.py - The primary script to Movie Trailer Website. This file generates a list of my favorite movies which media.py runs as an HTML web page.
 - media.py - This file contains a class which stores movie related information (ie. poster, trailer, etc)
 - fresh_tomatoes.py - The provided web page generator. It uses CSS/HTML to format the movie trailer website displayed on a static web page.
+- fresh_tomatoes.html - A complete HTML web document containing the poster image and video trailer URL.
 
 ## HOW TO USE
 
 - Download the project file to any computer directory.
 - Navigate to the project directory and open "fresh_tomatoes.html" to view movie instances and box art imagery.
-- Click on any poster image to watch the trailer of it's movie.
+- Click on any poster image to watch it's movie trailer.
 
 ## ADDING/MODIFYING FILES
 
