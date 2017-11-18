@@ -55,6 +55,6 @@ movies = [silent_hill,
           saving_private_ryan
          ]
 
-#imports generated web page to display listed movies
+# imports generated web page to display listed movies
 fresh_tomatoes.open_movies_page(movies)
 
